@@ -1,0 +1,15 @@
+NetzwerkAnalyseTool
+
+Funktionen:
+
+- WLAN Scanner (Zeigt Alle Zugrifspunkte an: SSID, BSSID, Signalstärke, Kanal, Funkstandart, Band (2,4 GHz/5 GHz/6 GHz), Verschlüsselungsmethode, Basissraten)
+- Netzwerkscanner (Zeigt offen ersichtliche Geräte im lokalen Netzwerk an.)
+- Geräteübersicht (Diese Übersicht wird durch einen internen Netzwerkscan aufgebaut, der dynamisch das lokale Subnetz erkennt (z. B.
+172.29.136.*), dann alle IPs in diesem Bereich pingt und auswertet. Die MAC-zu-Hersteller-Auflösung erfolgt über eine lokal gepflegte oder manuell aktualisierte OUI-Datenbank.)
+- Portscanner (zeigt offene Ports einer belibigen IP oder eines Host-Namen an.)
+- DNS/WHOIS-Abfrage (ermittelt alle öffentlichen Informationen über eine IP oder eine Webadresse an.)
+
+Der Scann kann etwas Zeit in Anspruch nehmen. Wartet ab auch wenn das Programm einen Moment nicht reagiert!
+
+
+Bei einigen Scanns öffnet und schliesst sich Sekundenbruchteilen die Konsole und schliesst sich wieder. Das liegt am Multithreading. 
