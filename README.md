@@ -4,6 +4,7 @@
 ## Über mich
 Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung)
 Ich bin ein engagierter Quereinsteiger mit wachsender Spezialisierung auf IT-Systeme, Netzwerktechnologie und Cybersecurity. Der TECH-Track der Digital Talents Academy ab August 2026 dient als Sprungbrett für meine berufliche Neuorientierung.
+Mehr infos in der Bio
 
 ## Technische Schwerpunkte
 
