@@ -2,7 +2,7 @@
 
 ### Wer ich bin:
 
-Ich bin 30 Jahre alt, habe 14 Jahren im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mittarbeiter geführt. Jedoch war diese Arbeit Raubbau an meinem körper und nun möchte ich mir meiner waren Beruffung seid der Kindheit nachgehen durch ein einstieg in die Informatik Platformentwickler und später mich richtung Cybersecurity weiterbilden. 
+Ich bin 31 Jahre alt, habe 14 Jahren im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mittarbeiter geführt. Jedoch war diese Arbeit Raubbau an meinem körper und nun möchte ich mir meiner waren Beruffung seid der Kindheit nachgehen durch ein einstieg in die Informatik Platformentwickler und später mich richtung Cybersecurity weiterbilden. 
 
 Ich habe absolut keine Schriftlichen Belege für mein verständniss, vorallem in geschäftlichen Platformen. Ich war seit kind ehnder neugierig und wissensdurstig was mich jetzt "zwingt" meiner Berufung (die auch mein Traum ist)
 In den Letzten 4 Wochen habe ich mich nach 18 Jahren das erste mal wieder mit Programmieren beschäftigt weil ich es toll finde. (Total am Anfang / Selbst ernannter Amatör) Mein ziel ist nicht Primär das programieren von Applikationen, sondern eher zu verstehen wie diese Programmiersprachen funktionieren und was ein Code mit sich bringen kann.
@@ -39,14 +39,14 @@ Ich habe mir selbst beigebracht:
 
 ### Selbstbeschreibung
 
- **Autodidaktischer Sicherheitsanalyst mit besonderem Denkstil: verknüpfend, vorausschauend, strukturiert. Spezialisiert auf systemnahe Konzepte, reproduzierbare Risiken und kreative Wege, Komplexität verständlich zu machen – ohne jemals destruktiv zu handeln.**
+ **Autodidaktischer Sicherheitsanalyst mit besonderem Denkstil: verknüpfend, vorausschauend, strukturiert. Spezialisiert auf systemnahe Konzepte,     reproduzierbare Risiken und kreative Wege, Komplexität verständlich zu machen.**
 
 ---
 
 ### Überzeugungen & Haltung:
 - Das Einzige, was ich weiß, ist, dass ich nichts weiß.
 - Alles beginnt mit einer Frage.
-- Und die besten Fragen beginnen mit: „Was wäre, wenn …?“
+- Die besten Fragen beginnen mit: „Was wäre, wenn …?“
 
 ---
 
@@ -58,6 +58,6 @@ Ich habe mir selbst beigebracht:
 ---
 
 *„Ich sehe nicht, was ist – ich sehe, was sein könnte.  
-Und dann überlege ich, was wäre, wenn es jemand ausnutzt.“  
+  Und dann überlege ich, was wäre, wenn es jemand ausnutzt.“  
 – Yanis Ameseder, 2025*
 
