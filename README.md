@@ -4,15 +4,19 @@
 ## Über mich
 Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung)
 Ich bin ein engagierter Quereinsteiger mit wachsender Spezialisierung auf IT-Systeme, Netzwerktechnologie und Cybersecurity. Der TECH-Track der Digital Talents Academy ab August 2026 dient als Sprungbrett für meine berufliche Neuorientierung.
-Mehr infos in der Bio
+Ich baue, teste und betreibe Systeme dort, wo Hardware, Netzwerke, Virtualisierung, Linux, Container, Embedded/IoT und lokale KI ineinandergreifen. Mein Stil ist: Hypothese → Test → Logs → Fix → Dokumentation.
+Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst aufgebaut habe: Homelab/Proxmox, KI-Stack, RAG-Workflows, Funk/Embedded (LoRa/BLE/GNSS), Debugging von Boot-/Update-Problemen und praxisnahe Netzwerk-Themen. Ich entwickle meine IT-Kompetenzen konsequent über reale Systeme: Proxmox-VMs, Storage-Konzepte, Docker-Services, SSH-/Zero-Trust-Zugriff, lokale KI-Workflows und Embedded-Funktests. Ich arbeite strukturiert, dokumentiere Entscheidungen, sammle Logs, baue reproduzierbare Setups und lerne sichtbar durch Debugging.
 
 ## Technische Schwerpunkte
 
 - Python (GUI, Netzwerk, Automatisierung)
 - Windows/Linux-Administration, Batch, PowerShell
+- Virtualisierung & Betrieb: Proxmox, Hyper-V, VM-Design (UEFI/OVMF, Cloud-Init), saubere Storage-Trennung (OS vs. Daten)
+- Linux & Services: systemd/OpenRC, Nginx Reverse Proxy, Docker/Compose, Logs/Healthchecks
+- Remote & Sicherheit:** Cloudflare Tunnel/Access, SSH key-only, „Remote-Zugriff darf nie verloren gehen“ als Betriebsregel
+- Lokale KI: Ollama + OpenWebUI, Tool-Server (REST), RAG-Ingest-Pipeline, klare Datenpfade/Caches
+- IoT/Funk: ESP32-S3, LoRa (SX1262/SX1278), BLE, GNSS (u-blox NEO, ...), MQTT-Telemetrie
 - WLAN-Scanner & Netzwerkanalyse mit OUI-Datenbank
-- BLE Beacon-Tools für Find My Kompatibilität
-- VM-Infrastruktur mit Hyper-V (Debian, Windows Server)
 - Software-Builds mit PyInstaller & Signatur
 - Cybersecurity, Systemhärtung, ethisches Hacking
 
@@ -22,7 +26,7 @@ Mehr infos in der Bio
 - **NetzwerkAnalyseTool:** WLAN-/Portscanner mit Subnetzerkennung & OUI-Auflösung
 - **BLE Beacon-Simulator:** Flipper Zero & ROG Ally mit Android/Discord-Integration
 - **Infrastruktur-Lab:** Aufbau lokaler Server-Topologien mit virtuellen Maschinen
-- **Noch nicht umgesetzte Ideen werden nach publizierung ergänzt
+- **Noch nicht umgesetzte Ideen werden nach fertigstellung oder Publizierung  ergänzt - sehr vieles in arbeit!
 
 ## Ausbildung & Perspektive
 
