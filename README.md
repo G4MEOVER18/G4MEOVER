@@ -17,8 +17,11 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 - Lokale KI: Ollama + OpenWebUI, Tool-Server (REST), RAG-Ingest-Pipeline, klare Datenpfade/Caches
 - IoT/Funk: ESP32-S3, LoRa (SX1262/SX1278), BLE, GNSS (u-blox NEO, ...), MQTT-Telemetrie
 - WLAN-Scanner & Netzwerkanalyse mit OUI-Datenbank
+- Diverse Firmware für Mikrocontroller
 - Software-Builds mit PyInstaller & Signatur
 - Cybersecurity, Systemhärtung, ethisches Hacking
+- KI System mit Model-Orchestrierung und Modellquantisierung
+- Multi-VM OpenClaw AI-Agentensystem auf Proxmox mit Gateway-Orchestrierung, isolierten Runner-VMs (Sandbox, Hardware-Flash, Admin), automatischer Cloud-Init-Provisionierung, Skill-Integration und sicherer Web-UI-Steuerung
 
 ## Projekte
 
@@ -27,6 +30,19 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 - **BLE Beacon-Simulator:** Flipper Zero & ROG Ally mit Android/Discord-Integration
 - **Infrastruktur-Lab:** Aufbau lokaler Server-Topologien mit virtuellen Maschinen
 - **Noch nicht umgesetzte Ideen werden nach fertigstellung oder Publizierung  ergänzt - sehr vieles in arbeit!
+
+## Projekte in Arbei!!
+
+- **ESP32-LCD-Time-SD-FTP:** ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server , webUI und Display
+- **StoneBoock** Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)
+- **SmartTag:** Multi-Radio-LowPower-Tracker (secret)
+- **RadioGateway:** RadioGateway-ESP32-MQTT-LoRa-Gateway
+- **LoRa-868:** (currently secret)
+- **LoRa-433:** (currently secret)
+- **LinkVault-XIAO-Notes:** (currently secret)
+- **ESP32S3-MiniPwn-Dashboard:** ESP32‑S3 Display‑Dashboard
+- **SoundNode:** ESP-IDF Projekt (ESP32 cheap yellow display als MP3 Player)
+- **TFT-AutoProbe:** Mini‑Sketch zum schnellen Verifizieren von TFT_eSPI Setup
 
 ## Ausbildung & Perspektive
 
