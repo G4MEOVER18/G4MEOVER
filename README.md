@@ -13,7 +13,7 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 - Windows/Linux-Administration, Batch, PowerShell
 - Virtualisierung & Betrieb: Proxmox, Hyper-V, VM-Design (UEFI/OVMF, Cloud-Init), saubere Storage-Trennung (OS vs. Daten)
 - Linux & Services: systemd/OpenRC, Nginx Reverse Proxy, Docker/Compose, Logs/Healthchecks
-- Remote & Sicherheit:** Cloudflare Tunnel/Access, SSH key-only, „Remote-Zugriff darf nie verloren gehen“ als Betriebsregel
+- **Remote & Sicherheit:** Cloudflare Tunnel/Access, SSH key-only, „Remote-Zugriff darf nie verloren gehen” als Betriebsregel
 - Lokale KI: Ollama + OpenWebUI, Tool-Server (REST), RAG-Ingest-Pipeline, klare Datenpfade/Caches
 - IoT/Funk: ESP32-S3, LoRa (SX1262/SX1278), BLE, GNSS (u-blox NEO, ...), MQTT-Telemetrie
 - WLAN-Scanner & Netzwerkanalyse mit OUI-Datenbank
@@ -29,9 +29,9 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 - **NetzwerkAnalyseTool:** WLAN-/Portscanner mit Subnetzerkennung & OUI-Auflösung
 - **BLE Beacon-Simulator:** Flipper Zero & ROG Ally mit Android/Discord-Integration
 - **Infrastruktur-Lab:** Aufbau lokaler Server-Topologien mit virtuellen Maschinen
-- **Noch nicht umgesetzte Ideen werden nach fertigstellung oder Publizierung  ergänzt - sehr vieles in arbeit!
+- Noch nicht umgesetzte Ideen werden nach Fertigstellung oder Publizierung ergänzt – sehr vieles in Arbeit!
 
-## Projekte in Arbei!!
+## Projekte in Arbeit
 
 - **ESP32-LCD-Time-SD-FTP:** ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server , webUI und Display
 - **StoneBoock** Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)

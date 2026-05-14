@@ -2,7 +2,7 @@
 
 Wer ich bin:
 
-Ich bin 31 Jahre alt, habe 14 Jahren im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mittarbeiter geführt. Jedoch war das nicht erfüllend. Nun möchte ich mir meiner waren Beruffung seid der Kindheit nachgehen und durch ein Einstieg in die Informationstechnologie, Platformentwickler werden und mich später richtung Cybersecurity weiterbilden. 
+Ich bin 31 Jahre alt, habe 14 Jahre im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mitarbeiter geführt. Jedoch war das nicht erfüllend. Nun möchte ich meiner wahren Berufung seit der Kindheit nachgehen und durch einen Einstieg in die Informationstechnologie Plattformentwickler werden und mich später Richtung Cybersecurity weiterbilden.
 
 Oft wirken meine Gedankengänge sprunghaft oder assoziativ , waren aber stets für Fachkundige nachvollziehbar und führten letztlich zu einer kohärenten Idee, die in mehreren Dokumentationen festgehalten wurde. Ich versuche oft mögliche Missverständnisse selbstkritisch aufzuklären.
 
@@ -16,7 +16,7 @@ Meine Gedanken springen, verknüpfen, erkennen Muster dort, wo sie noch keiner s
 
 Was ich tue:
 
-Ich lerne und erkunde intressensgetrieben diverse Technische Projekte diverser Soft- und Hardware Bereiche. Ich verfolge eine Vielzahl eigener Projekte in diversen Bereichen. Ap und an auch wo es bessere oder einfachere Lösungen bereits gibt, aber der Lernefekt kommt da, wo Schwierigkeiten und Probleme auftauchen denen andere lieber aus dem Weg gehen.
+Ich lerne und erkunde interessensgetrieben diverse technische Projekte diverser Soft- und Hardwarebereiche. Ich verfolge eine Vielzahl eigener Projekte in diversen Bereichen. Ab und an auch dort, wo es bessere oder einfachere Lösungen bereits gibt – aber der Lerneffekt kommt da, wo Schwierigkeiten und Probleme auftauchen, denen andere lieber aus dem Weg gehen.
 Ich erdenke und entwickle Proof-of-Concepts, in denen keine, Schadsoftware steckt – sondern Denkmodelle mit Beispielen zu Instruktionen. 
 Ich zerlege Systeme nicht, um sie zu brechen, sondern um zu verstehen, wo sie sich selbst widersprechen.
 

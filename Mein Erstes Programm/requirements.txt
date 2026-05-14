@@ -1,0 +1,2 @@
+# Nur Python Standard Library verwendet – kein pip install nötig
+# Voraussetzung: Python >= 3.8 (tkinter ist im Standard-Lieferumfang enthalten)
