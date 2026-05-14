@@ -19,68 +19,68 @@ class SymbolGUI:
     beider Knöpfe.
     """
 
-    def __init__(self, wurzel: tk.Tk) -> None:
+    def __init__(self, root: tk.Tk) -> None:
         """Initialisiert das Hauptfenster, zentriert es und erstellt die Steuerelemente."""
-        self.wurzel = wurzel
-        self.wurzel.title("Erstes Programm")
-        self._fenster_zentrieren()
+        self.root = root
+        self.root.title("Erstes Programm")
+        self._center_window()
 
-        self.beschriftung = tk.Label(wurzel, text="", font=BESCHRIFTUNG_SCHRIFT)
-        self.beschriftung.pack(pady=10)
+        self.label = tk.Label(root, text="", font=BESCHRIFTUNG_SCHRIFT)
+        self.label.pack(pady=10)
 
-        self.knopf_rahmen = tk.Frame(wurzel)
-        self.knopf_rahmen.pack()
+        self.button_frame = tk.Frame(root)
+        self.button_frame.pack()
 
-        self.symbol_reihenfolge = ["kreis", "dreieck"]
-        self.knoepfe_erstellen()
+        self.symbol_order = ["kreis", "dreieck"]
+        self.create_buttons()
 
-    def _fenster_zentrieren(self) -> None:
+    def _center_window(self) -> None:
         """Positioniert das Fenster in der Mitte des Bildschirms."""
-        self.wurzel.update_idletasks()
-        bildschirm_breite = self.wurzel.winfo_screenwidth()
-        bildschirm_hoehe = self.wurzel.winfo_screenheight()
-        x = (bildschirm_breite - FENSTER_BREITE) // 2
-        y = (bildschirm_hoehe - FENSTER_HOEHE) // 2
-        self.wurzel.geometry(f"{FENSTER_BREITE}x{FENSTER_HOEHE}+{x}+{y}")
+        self.root.update_idletasks()
+        screen_w = self.root.winfo_screenwidth()
+        screen_h = self.root.winfo_screenheight()
+        x = (screen_w - FENSTER_BREITE) // 2
+        y = (screen_h - FENSTER_HOEHE) // 2
+        self.root.geometry(f"{FENSTER_BREITE}x{FENSTER_HOEHE}+{x}+{y}")
 
-    def knoepfe_erstellen(self) -> None:
+    def create_buttons(self) -> None:
         """Löscht alle vorhandenen Knöpfe und erstellt sie in der aktuellen Reihenfolge neu."""
-        for widget in self.knopf_rahmen.winfo_children():
+        for widget in self.button_frame.winfo_children():
             widget.destroy()
 
-        for symbol in self.symbol_reihenfolge:
+        for symbol in self.symbol_order:
             if symbol == "kreis":
-                self.kreis_knopf = tk.Button(
-                    self.knopf_rahmen, text="●", fg=FARBE_STANDARD,
+                self.circle_button = tk.Button(
+                    self.button_frame, text="●", fg=FARBE_STANDARD,
                     font=SCHALTFLAECHE_SCHRIFT, width=SCHALTFLAECHE_BREITE
                 )
-                self.kreis_knopf.bind("<ButtonPress-1>", self.kreis_gedrueckt)
-                self.kreis_knopf.bind("<ButtonRelease-1>", self.kreis_losgelassen)
-                self.kreis_knopf.pack(side=tk.LEFT, padx=SCHALTFLAECHE_ABSTAND)
+                self.circle_button.bind("<ButtonPress-1>", self.circle_press)
+                self.circle_button.bind("<ButtonRelease-1>", self.circle_release)
+                self.circle_button.pack(side=tk.LEFT, padx=SCHALTFLAECHE_ABSTAND)
             elif symbol == "dreieck":
-                self.dreieck_knopf = tk.Button(
-                    self.knopf_rahmen, text="▲", fg=FARBE_STANDARD,
+                self.triangle_button = tk.Button(
+                    self.button_frame, text="▲", fg=FARBE_STANDARD,
                     font=SCHALTFLAECHE_SCHRIFT, width=SCHALTFLAECHE_BREITE,
-                    command=self.knoepfe_tauschen
+                    command=self.swap_buttons
                 )
-                self.dreieck_knopf.pack(side=tk.LEFT, padx=SCHALTFLAECHE_ABSTAND)
+                self.triangle_button.pack(side=tk.LEFT, padx=SCHALTFLAECHE_ABSTAND)
 
-    def kreis_gedrueckt(self, ereignis: tk.Event) -> None:
+    def circle_press(self, event: tk.Event) -> None:
         """Färbt den Kreis-Knopf grün und zeigt die Begrüssungsmeldung."""
-        ereignis.widget.config(fg=FARBE_AKTIV)
-        self.beschriftung.config(text=BEGRUESSUNGSTEXT)
+        event.widget.config(fg=FARBE_AKTIV)
+        self.label.config(text=BEGRUESSUNGSTEXT)
 
-    def kreis_losgelassen(self, ereignis: tk.Event) -> None:
+    def circle_release(self, event: tk.Event) -> None:
         """Setzt die Farbe des Kreis-Knopfs auf Schwarz zurück."""
-        ereignis.widget.config(fg=FARBE_STANDARD)
+        event.widget.config(fg=FARBE_STANDARD)
 
-    def knoepfe_tauschen(self) -> None:
+    def swap_buttons(self) -> None:
         """Vertauscht die Reihenfolge der Knöpfe."""
-        self.symbol_reihenfolge.reverse()
-        self.knoepfe_erstellen()
+        self.symbol_order.reverse()
+        self.create_buttons()
 
 
 if __name__ == "__main__":
-    wurzel = tk.Tk()
-    programm = SymbolGUI(wurzel)
-    wurzel.mainloop()
+    root = tk.Tk()
+    app = SymbolGUI(root)
+    root.mainloop()
