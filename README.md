@@ -2,11 +2,25 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green) ![Stand](https://img.shields.io/badge/Stand-Lernprojekt-orange)
 
+## Inhalt
+
+- [Über mich](#über-mich)
+- [Technische Schwerpunkte](#technische-schwerpunkte)
+- [Projekte](#projekte)
+- [Projekte in Arbeit](#projekte-in-arbeit)
+- [Wie starten](#wie-starten--mein-erstes-programm)
+- [Ausbildung & Perspektive](#ausbildung--perspektive)
+- [Lizenz](#lizenz)
+
 ## Über mich
-Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung)
+
+**Selbstständiger Security-Denker & Systemanalyst** (ohne formale IT-Ausbildung)
+
 Ich bin ein engagierter Quereinsteiger mit wachsender Spezialisierung auf IT-Systeme, Netzwerktechnologie und Cybersecurity. Der TECH-Track der Digital Talents Academy ab August 2026 dient als Sprungbrett für meine berufliche Neuorientierung.
-Ich baue, teste und betreibe Systeme dort, wo Hardware, Netzwerke, Virtualisierung, Linux, Container, Embedded/IoT und lokale KI ineinandergreifen. Mein Stil ist: Hypothese → Test → Logs → Fix → Dokumentation.
-Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst aufgebaut habe: Homelab/Proxmox, KI-Stack, RAG-Workflows, Funk/Embedded (LoRa/BLE/GNSS), Debugging von Boot-/Update-Problemen und praxisnahe Netzwerk-Themen. Ich entwickle meine IT-Kompetenzen konsequent über reale Systeme: Proxmox-VMs, Storage-Konzepte, Docker-Services, SSH-/Zero-Trust-Zugriff, lokale KI-Workflows und Embedded-Funktests. Ich arbeite strukturiert, dokumentiere Entscheidungen, sammle Logs, baue reproduzierbare Setups und lerne sichtbar durch Debugging.
+
+Ich baue, teste und betreibe Systeme dort, wo Hardware, Netzwerke, Virtualisierung, Linux, Container, Embedded/IoT und lokale KI ineinandergreifen. Mein Stil ist: **Hypothese → Test → Logs → Fix → Dokumentation.**
+
+Meine Kenntnisse kommen aus Projekten, die ich mir selbst aufgebaut habe: Homelab/Proxmox, KI-Stack, RAG-Workflows, Funk/Embedded (LoRa/BLE/GNSS), Debugging von Boot-/Update-Problemen und praxisnahe Netzwerk-Themen. Ich arbeite strukturiert, dokumentiere Entscheidungen, sammle Logs, baue reproduzierbare Setups und lerne sichtbar durch Debugging.
 
 ## Technische Schwerpunkte
 
@@ -52,7 +66,14 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 python “Mein Erstes Programm/Fenster.py”
 ```
 
-Das Fenster öffnet sich zentriert auf dem Bildschirm. Kreis-Button drücken → Begrüssung; Dreieck-Button → Buttons tauschen.
+Das Fenster öffnet sich zentriert auf dem Bildschirm.
+
+| Aktion | Maus | Tastatur |
+|---|---|---|
+| Begrüssung anzeigen | Kreis-Knopf gedrückt halten | `Leertaste` |
+| Knöpfe tauschen | Dreieck-Knopf klicken | `Enter` |
+
+![Screenshot](Mein%20Erstes%20Programm/Screenshot%202025-07-12%20023028.png)
 
 ## Ausbildung & Perspektive
 

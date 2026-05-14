@@ -1,3 +1,5 @@
+# Yanis Ameseder
+
 ## Wer ich bin
 
 Ich bin 31 Jahre alt, habe 14 Jahre im Strassen- und Tiefbau gearbeitet und Baustellen für meine Mitarbeiter geführt. Jedoch war das nicht erfüllend. Nun möchte ich meiner wahren Berufung seit der Kindheit nachgehen und durch einen Einstieg in die Informationstechnologie Plattformentwickler werden und mich später Richtung Cybersecurity weiterbilden.
@@ -15,7 +17,9 @@ Meine Gedanken springen, verknüpfen, erkennen Muster dort, wo sie noch keiner s
 ## Was ich tue
 
 Ich lerne und erkunde interessensgetrieben diverse technische Projekte diverser Soft- und Hardwarebereiche. Ich verfolge eine Vielzahl eigener Projekte in diversen Bereichen. Ab und an auch dort, wo es bessere oder einfachere Lösungen bereits gibt – aber der Lerneffekt kommt da, wo Schwierigkeiten und Probleme auftauchen, denen andere lieber aus dem Weg gehen.
+
 Ich erdenke und entwickle Proof-of-Concepts, in denen keine Schadsoftware steckt – sondern Denkmodelle mit Beispielen zu Instruktionen.
+
 Ich zerlege Systeme nicht, um sie zu brechen, sondern um zu verstehen, wo sie sich selbst widersprechen.
 
 ---
@@ -26,7 +30,7 @@ Ich zerlege Systeme nicht, um sie zu brechen, sondern um zu verstehen, wo sie si
 - Struktur
 - Markdown, Python, Batch und Interesse für Verständniss
 - Klarheit, Reduktion
-- Ein Hirn, das gleichzeitig in mehreren Themen denkt und das gelegentlich flackert 
+- Ein Hirn, das gleichzeitig in mehreren Themen denkt und das gelegentlich flackert
 
 ---
 

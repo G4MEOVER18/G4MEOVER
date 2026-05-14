@@ -23,6 +23,8 @@ class SymbolGUI:
         """Initialisiert das Hauptfenster, zentriert es und erstellt die Steuerelemente."""
         self.root = root
         self.root.title("Erstes Programm")
+        self.root.resizable(False, False)
+        self.root.protocol("WM_DELETE_WINDOW", self.root.quit)
         self._center_window()
 
         self.label = tk.Label(root, text="", font=BESCHRIFTUNG_SCHRIFT)
@@ -33,6 +35,9 @@ class SymbolGUI:
 
         self.symbol_order = ["kreis", "dreieck"]
         self.create_buttons()
+
+        self.root.bind("<space>", self._tastatur_kreis)
+        self.root.bind("<Return>", lambda e: self.swap_buttons())
 
     def _center_window(self) -> None:
         """Positioniert das Fenster in der Mitte des Bildschirms."""
@@ -64,6 +69,13 @@ class SymbolGUI:
                     command=self.swap_buttons
                 )
                 self.triangle_button.pack(side=tk.LEFT, padx=SCHALTFLAECHE_ABSTAND)
+
+    def _tastatur_kreis(self, event: tk.Event) -> None:
+        """Simuliert Kreis-Drücken und -Loslassen via Leertaste."""
+        if hasattr(self, "circle_button"):
+            self.circle_button.config(fg=FARBE_AKTIV)
+            self.label.config(text=BEGRUESSUNGSTEXT)
+            self.root.after(150, lambda: self.circle_button.config(fg=FARBE_STANDARD))
 
     def circle_press(self, event: tk.Event) -> None:
         """Färbt den Kreis-Knopf grün und zeigt die Begrüssungsmeldung."""
