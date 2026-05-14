@@ -24,7 +24,7 @@ Ich zerlege Systeme nicht, um sie zu brechen, sondern um zu verstehen, wo sie si
 
 - Neugier
 - Struktur
-- Markdown, Python, Batch und Interesse für Verständnis
+- Markdown, Python, Batch und Interesse für Verständniss
 - Klarheit, Reduktion
 - Ein Hirn, das gleichzeitig in mehreren Themen denkt und das gelegentlich flackert 
 
