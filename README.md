@@ -1,6 +1,6 @@
 # IT-Portfolio – Yanis Ameseder
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) ![License](https://img.shields.io/badge/Lizenz-MIT-green) ![Status](https://img.shields.io/badge/Status-Lernprojekt-orange)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) ![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green) ![Stand](https://img.shields.io/badge/Stand-Lernprojekt-orange)
 
 ## Über mich
 Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung)
@@ -36,11 +36,11 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 
 - **ESP32-LCD-Time-SD-FTP:** ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server, webUI und Display
 - **StoneBook:** Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)
-- **SmartTag:** Multi-Radio-LowPower-Tracker (secret)
+- **SmartTag:** Multi-Radio-LowPower-Tracker (derzeit nicht öffentlich)
 - **RadioGateway:** RadioGateway-ESP32-MQTT-LoRa-Gateway
-- **LoRa-868:** (currently secret)
-- **LoRa-433:** (currently secret)
-- **LinkVault-XIAO-Notes:** (currently secret)
+- **LoRa-868:** (derzeit nicht öffentlich)
+- **LoRa-433:** (derzeit nicht öffentlich)
+- **LinkVault-XIAO-Notes:** (derzeit nicht öffentlich)
 - **ESP32S3-MiniPwn-Dashboard:** ESP32‑S3 Display‑Dashboard
 - **SoundNode:** ESP-IDF Projekt (ESP32 cheap yellow display als MP3 Player)
 - **TFT-AutoProbe:** Mini‑Sketch zum schnellen Verifizieren von TFT_eSPI Setup

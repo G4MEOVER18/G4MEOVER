@@ -13,12 +13,12 @@ env/
 # PyInstaller
 *.spec
 
-# OS
+# Betriebssystem
 .DS_Store
 Thumbs.db
 desktop.ini
 
-# Editor
+# Editoren
 .vscode/
 .idea/
 *.swp
