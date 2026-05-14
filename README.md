@@ -1,5 +1,6 @@
-
 # IT-Portfolio – Yanis Ameseder
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python) ![License](https://img.shields.io/badge/Lizenz-MIT-green) ![Status](https://img.shields.io/badge/Status-Lernprojekt-orange)
 
 ## Über mich
 Selbstständiger Security-Denker & Systemanalyst (ohne formale IT-Ausbildung)
@@ -44,7 +45,20 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 - **SoundNode:** ESP-IDF Projekt (ESP32 cheap yellow display als MP3 Player)
 - **TFT-AutoProbe:** Mini‑Sketch zum schnellen Verifizieren von TFT_eSPI Setup
 
+## Wie starten – Mein Erstes Programm
+
+```bash
+# Python 3.8+ vorausgesetzt (tkinter ist im Standard-Lieferumfang enthalten)
+python “Mein Erstes Programm/Fenster.py”
+```
+
+Das Fenster öffnet sich zentriert auf dem Bildschirm. Kreis-Button drücken → Begrüssung; Dreieck-Button → Buttons tauschen.
+
 ## Ausbildung & Perspektive
 
-Ab August 2026: Zertifikatslehrgang „Digital Talents Academy – TECH-Track“  
+Ab August 2026: Zertifikatslehrgang „Digital Talents Academy – TECH-Track”  
 Gewerbliches Berufs- und Weiterbildungszentrum St.Gallen
+
+## Lizenz
+
+Dieses Repository steht unter der [MIT-Lizenz](LICENSE).
