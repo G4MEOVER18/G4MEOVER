@@ -34,8 +34,8 @@ Ich bin IT-Quereinsteiger. Meine Skills kommen aus Projekten, die ich mir selbst
 
 ## Projekte in Arbeit
 
-- **ESP32-LCD-Time-SD-FTP:** ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server , webUI und Display
-- **StoneBoock** Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)
+- **ESP32-LCD-Time-SD-FTP:** ESP32‑S3 Dashboard mit Uhrzeit (NTP), SD‑Logging mit FTP-Server, webUI und Display
+- **StoneBook:** Multi-KI-Analyse-und-Datenbank-Tool (für Edel-/Steine & Mineralien)
 - **SmartTag:** Multi-Radio-LowPower-Tracker (secret)
 - **RadioGateway:** RadioGateway-ESP32-MQTT-LoRa-Gateway
 - **LoRa-868:** (currently secret)
